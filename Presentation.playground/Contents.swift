@@ -41,7 +41,6 @@ var increment = makeIncrementer()
 increment(7)
 
 // Enums
-
 enum MLSTeam {
     case Montreal
     case Toronto
